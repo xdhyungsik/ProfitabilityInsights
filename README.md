@@ -43,6 +43,8 @@ The goal is to simulate airline economics and understand how day-to-day operatio
 This scatterplot was to see where profit margin peaks, compared to load factor. The graph reveals that the profits increase as the load factor goes up, and especially increase sharply near **70-85% load factor**. The returns are diminishing near the **90%** mark. 
 A scatterplot showing the “**sweet spot**” where profit margin peaks.  
 
+(Graphs/Scatter.jpg)
+
 ---
 
 ### **2. Delay, Load Factor Heatmap**
@@ -51,11 +53,19 @@ The heatmap shows the relationship, showing that **higher delays lead to lower p
 
 Operational reliability directly impacts the margin in airlines.
 
+(Graphs/Heatmap.jpg)
+
+---
+
 ### **3. Fuel Price vs Net Profit Margin (Monthly Trend)**
 
 The dual-axis bar + line chart tracks the monthly fuel prices and the monthly average net profit margin. In this, we see that as fuel prices rise, the profit margin decreases. We also see that margins show a small recovery in months that have lower/stable fuel prices. This shows us how sensitive fuel costs are to the operations and profitability of airlines. 
 
 Demonstrates the sensitivity of airline profitability to fuel costs.
+
+(Graphs/Project2Individual.jpg)
+
+---
 
 ## Dataset Creation (Python)
 
@@ -88,6 +98,7 @@ The purpose of this modeling step was to:
 - Capture realistic operational patterns (delays, load factor, utilization)
 - Build financial relationships (revenue, cost, margin)
 - Study how operational behavior mathematically impacts profitability
+
 
 ---
 
