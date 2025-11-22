@@ -1,4 +1,4 @@
-
+![Dashboard](TableauDashboard.jpg)
 ---
 
 # Overview
