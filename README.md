@@ -43,7 +43,7 @@ The goal is to simulate airline economics and understand how day-to-day operatio
 This scatterplot was to see where profit margin peaks, compared to load factor. The graph reveals that the profits increase as the load factor goes up, and especially increase sharply near **70-85% load factor**. The returns are diminishing near the **90%** mark. 
 A scatterplot showing the “**sweet spot**” where profit margin peaks.  
 
-(Graphs/Scatter.jpg)
+![Load Factor vs. Net Profit](Graphs/Scatter.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ The heatmap shows the relationship, showing that **higher delays lead to lower p
 
 Operational reliability directly impacts the margin in airlines.
 
-(Graphs/Heatmap.jpg)
+![Delay, Load Factor Heatmap](Graphs/Heatmap.jpg)
 
 ---
 
@@ -63,7 +63,8 @@ The dual-axis bar + line chart tracks the monthly fuel prices and the monthly av
 
 Demonstrates the sensitivity of airline profitability to fuel costs.
 
-(Graphs/Project2Individual.jpg)
+
+![Fuel vs Profit](Graphs/Project2Individual.jpg)
 
 ---
 
