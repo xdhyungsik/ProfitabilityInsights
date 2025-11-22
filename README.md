@@ -1,4 +1,15 @@
+# Aviation Profitability & Operational Insights Dashboard
+
 ![Dashboard](TableauDashboard.jpg)
+
+The dashboard that I created on Tableau summarizes operational and financial patterns across the dataset of 100,000+ simulated U.S. airline flights.
+
+I used Tableau to create an interactive dashboard that helps visualize how Delays, Load Factor, Jet Fuel Prices, and monthly trends come together to show overall profitability. 
+
+Key themes:
+- **Operational Reliability** — Delays significantly reduce profit margins.  
+- **Demand Efficiency** — Profitability increases sharply with higher load factors.  
+- **Cost Sensitivity** — Fuel price fluctuations directly affect profit performance.
 ---
 
 # Overview
