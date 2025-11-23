@@ -147,16 +147,6 @@ The predictive modeling confirms the financial logic built into the dataset:
 **Operational disruptions (delays, downtime, low utilization) influence profit, but financial metrics ultimately dominate airline profitability.**
 
 
-
-## PROJECT REPRODUCTION
-
-### Clone the repository:
-
-git clone https://github.com/xdhyungsik/ProfitabilityInsights.git
-cd ProfitabilityInsights
-
-Project2.twbx
-
 ## Tools & Technologies
 - **Python (Pandas, NumPy, MatPlotLib)** — dataset creation and feature engineering  
 - **Tableau** — dashboards and visual analytics  
