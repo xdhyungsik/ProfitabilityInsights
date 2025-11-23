@@ -1,6 +1,6 @@
 # Aviation Profitability & Operational Insights Dashboard
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.png)
 
 The dashboard that I created on Tableau summarizes operational and financial patterns across the dataset of 100,000+ simulated U.S. airline flights.
 
