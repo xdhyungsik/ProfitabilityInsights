@@ -54,7 +54,7 @@ The goal is to simulate airline economics and understand how day-to-day operatio
 This scatterplot was to see where profit margin peaks, compared to load factor. The graph reveals that the profits increase as the load factor goes up, and especially increase sharply near **70-85% load factor**. The returns are diminishing near the **90%** mark. 
 A scatterplot showing the “**sweet spot**” where profit margin peaks.  
 
-![Load Factor vs. Net Profit](Graphs/NPMvsLoad Factor.png)
+![Load Factor vs. Net Profit](Graphs/NPMvsLoadFactor.png)
 
 ---
 
