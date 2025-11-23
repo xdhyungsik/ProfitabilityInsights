@@ -76,28 +76,6 @@ Demonstrates the sensitivity of airline profitability to fuel costs.
 
 
 ![Fuel vs Profit](Graphs/Project2Individual.png)
-
----
-
-## Dataset Creation (Python)
-
-The dataset that I used in the project was based on a Kaggle dataset (user absinthepapi), but I created a Python script which made the dataset more realistic. In here, I adjusted the 200,000+ flight records to 100,000 records, and converted it to statistically accurate patterns for all of the data. 
-
-The dataset used in this project was generated using a custom Python script designed to simulate realistic U.S. airline operations.  
-The code creates 5,000+ synthetic flight records with statistically accurate patterns for load factor, delays, fuel prices, utilization, and profitability.
-
-### Key Generation Logic:
-- **Load Factor (%)** — normally distributed around 80%, clipped to 40–100%.
-- **Delays (Minutes)** — based on a normal distribution with realistic spread and minimum 0.
-- **Fuel Prices** — assigned per month using random uniform monthly averages (2.2–3.4 USD/gal).
-- **Aircraft Utilization** — daily hours normally distributed around major airline averages (10–12 hours/day).
-- **Maintenance Downtime** — exponential distribution to model occasional high downtime events.
-- **Turnaround Time** — normally distributed around 70 minutes.
-- **Financial Modeling**
-  - **Revenue (USD)** increases with load factor + utilization.
-  - **Operating Cost (USD)** increases with delays, fuel price, and maintenance downtime.
-  - **Profit** = Revenue – Operating Cost
-  - **Net Profit Margin (%)** = Profit / Revenue × 100
  
 ---
 
