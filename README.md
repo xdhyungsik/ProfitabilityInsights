@@ -1,6 +1,6 @@
 # Aviation Profitability & Operational Insights Dashboard
 
-![Dashboard](TableauDashboard.jpg)
+![Dashboard](Dashboard.jpg)
 
 The dashboard that I created on Tableau summarizes operational and financial patterns across the dataset of 100,000+ simulated U.S. airline flights.
 
@@ -54,7 +54,7 @@ The goal is to simulate airline economics and understand how day-to-day operatio
 This scatterplot was to see where profit margin peaks, compared to load factor. The graph reveals that the profits increase as the load factor goes up, and especially increase sharply near **70-85% load factor**. The returns are diminishing near the **90%** mark. 
 A scatterplot showing the “**sweet spot**” where profit margin peaks.  
 
-![Load Factor vs. Net Profit](Graphs/Scatter.png)
+![Load Factor vs. Net Profit](Graphs/NPM vs Load Factor.png)
 
 ---
 
@@ -75,7 +75,7 @@ The dual-axis bar + line chart tracks the monthly fuel prices and the monthly av
 Demonstrates the sensitivity of airline profitability to fuel costs.
 
 
-![Fuel vs Profit](Graphs/Project2Individual.png)
+![Fuel vs Profit](FuelvsNPM.png)
  
 ---
 
