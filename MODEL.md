@@ -99,7 +99,7 @@ Year 0.00000
 ## Full Modeling Script
 
 See:  
-`/modeling/profitability_model.py`
+`Python Code/Prediction:ML Code`
 
 ---
 
